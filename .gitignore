@@ -28,3 +28,6 @@ Thumbs.db
 
 # Docker
 postgres_data/
+backend/.venv/
+
+.venv/
